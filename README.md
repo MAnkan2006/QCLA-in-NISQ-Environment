@@ -157,13 +157,12 @@ Measures the relative computational error compared to the correct output.
 
 The impact of different noise models is evaluated through extensive simulations.
 
-| Noise Model | Error Rate (ER) | NMED  | MRED  |
-| ----------- | --------------- | ----- | ----- |
-| Ideal       | 0.000           | 0.000 | 0.000 |
-
-| Depolarizing | 52.46 | 0.120 | 0.352 |
-| Bit Flip | 88.93 % | 0.225 | 0.651 |
-| Phase Flip | Experimental | Experimental | Experimental |
+| Noise Model  | Error Rate (ER) | NMED         | MRED         |
+| ------------ | --------------- | ------------ | ------------ |
+| Ideal        | 0.000           | 0.000        | 0.000        |
+| Depolarizing | 52.46           | 0.120        | 0.352        |
+| Bit Flip     | 88.93 %         | 0.225        | 0.651        |
+| Phase Flip   | Experimental    | Experimental | Experimental |
 
 Replace the above values with the actual results obtained from simulations.
 
